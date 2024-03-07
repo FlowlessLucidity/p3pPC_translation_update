@@ -1,0 +1,130 @@
+{
+  "ModId": "p3ppc.text.russianTranslation",
+  "ModName": "P3P Russian Translation (PC Version) ",
+  "ModAuthor": "KotoneTeam",
+  "ModVersion": "0.8.3",
+  "ModDescription": "\u041F\u0435\u0440\u0435\u0432\u043E\u0434 \u043D\u0430 \u044F\u0437\u044B\u043A \u041F\u0443\u0448\u043A\u0438\u043D\u0430 \u0438 \u041B\u0435\u0440\u043C\u043E\u043D\u0442\u043E\u0432\u0430",
+  "ModDll": "",
+  "ModIcon": "",
+  "ModR2RManagedDll32": "",
+  "ModR2RManagedDll64": "",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "Tags": [],
+  "CanUnload": null,
+  "HasExports": null,
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "p3ppc.text.russianTranslation.ReleaseMetadata.json",
+  "PluginData": {
+    "GitHubDependencies": {
+      "IdToConfigMap": {
+        "crifs.v2.hook": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "CriFs.V2.Hook.ReleaseMetadata.json"
+        },
+        "CriFs.V2.Hook.Awb": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "CriFs.V2.Hook.ReloadedII",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "CriFs.V2.Hook.Awb.ReleaseMetadata.json"
+        },
+        "p5rpc.modloader": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "p5rpc.modloader",
+            "UseReleaseTag": true,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "p5rpc.modloader.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Universal.FileEmulationFramework.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.awb": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "AWB.Stream.Emulator.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.bf": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "BF.File.Emulator.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.pak": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "PAK.Stream.Emulator.ReleaseMetadata.json"
+        },
+        "Reloaded.Memory.SigScan.ReloadedII": {
+          "Config": {
+            "UserName": "Reloaded-Project",
+            "RepositoryName": "Reloaded.Memory.SigScan",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
+        },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        },
+        "reloaded.universal.fileemulationframework.spd": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
+          },
+          "ReleaseMetadataName": "SPD.File.Emulator.ReleaseMetadata.json"
+        }
+      }
+    }
+  },
+  "IsUniversalMod": false,
+  "ModDependencies": [
+    "crifs.v2.hook",
+    "CriFs.V2.Hook.Awb",
+    "p4gpc.inaba",
+    "p5rpc.modloader",
+    "reloaded.universal.fileemulationframework",
+    "reloaded.universal.fileemulationframework.awb",
+    "reloaded.universal.fileemulationframework.bf",
+    "reloaded.universal.fileemulationframework.pak"
+  ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [
+    "p3p.exe"
+  ],
+  "ProjectUrl": ""
+}
