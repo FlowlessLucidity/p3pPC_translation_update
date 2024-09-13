@@ -1,6 +1,0 @@
-[replacement locale]
-order = before
-pattern = FF 25 E4 8F 97 11
-#replacement = bytes(F1 CB 5F 40 01)
-#search = "What term will you check"
-replacement = bytes(90 90 90 90 90 90)

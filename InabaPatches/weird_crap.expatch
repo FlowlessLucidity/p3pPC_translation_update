@@ -1,0 +1,29 @@
+[replacement Hexagon Spread]
+search = "Hexagon Spread"
+replacement = "Geksagramma"
+padNull=true
+offset=0
+
+[replacement Pentagon Spread]
+search = "Pentagon Spread"
+replacement = "Pentagramma"
+padNull=true
+offset=0
+
+[replacement Cross Spread]
+search = "Cross Spread"
+replacement = "Krest"
+padNull=true
+offset=0
+
+[replacement Enter your first name.]
+search = "Enter your first name."
+replacement = "Vvedite imq."
+padNull=true
+offset=0
+
+[replacement Enter your last name.]
+search = "Enter your last name."
+replacement = "Vvedite familiu."
+padNull=true
+offset=0

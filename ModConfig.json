@@ -81,6 +81,15 @@
           },
           "ReleaseMetadataName": "PAK.Stream.Emulator.ReleaseMetadata.json"
         },
+        "reloaded.sharedlib.hooks": {
+          "Config": {
+            "UserName": "Sewer56",
+            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
+            "UseReleaseTag": true,
+            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+          },
+          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+        },
         "Reloaded.Memory.SigScan.ReloadedII": {
           "Config": {
             "UserName": "Reloaded-Project",
@@ -90,14 +99,14 @@
           },
           "ReleaseMetadataName": "Reloaded.Memory.SigScan.ReloadedII.ReleaseMetadata.json"
         },
-        "reloaded.sharedlib.hooks": {
+        "reloaded.universal.fileemulationframework.bmd": {
           "Config": {
             "UserName": "Sewer56",
-            "RepositoryName": "Reloaded.SharedLib.Hooks.ReloadedII",
-            "UseReleaseTag": true,
-            "AssetFileName": "reloaded.sharedlib.hooks.zip"
+            "RepositoryName": "FileEmulationFramework",
+            "UseReleaseTag": false,
+            "AssetFileName": "Mod.zip"
           },
-          "ReleaseMetadataName": "Sewer56.Update.ReleaseMetadata.json"
+          "ReleaseMetadataName": "BMD.File.Emulator.ReleaseMetadata.json"
         },
         "reloaded.universal.fileemulationframework.spd": {
           "Config": {
@@ -113,6 +122,7 @@
   },
   "IsUniversalMod": false,
   "ModDependencies": [
+    "p3ppc.unhardcodedNames",
     "crifs.v2.hook",
     "CriFs.V2.Hook.Awb",
     "p4gpc.inaba",
