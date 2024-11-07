@@ -1,0 +1,10 @@
+[sel BTL_REVIVAL_SEL top]
+[s]Да[e]
+[s]Нет[e]
+
+[msg BTL_REVIVAL_SEL_001]
+[s]> DUMMY[n][e]
+
+[msg BTL_REVIVAL_SEL_002]
+[s]> Вы можете использовать повтор в этой битве.[n]Повторить эту битву?[n][e]
+

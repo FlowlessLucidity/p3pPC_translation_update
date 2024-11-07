@@ -1,0 +1,56 @@
+{
+    "0x140802FF0": {
+        "file": "Proceed.bmd",
+        "occurrences": [
+            "0x1408030b8"
+        ]
+    },
+    "0x140807340": {
+        "file": "YourIncreased.bmd",
+        "occurrences": [
+            "0x1408081b8"
+        ]
+    },
+    "0x14074E1E0": {
+        "file": "Battle01.bmd",
+        "occurrences": [
+            "0x1407575e8"
+        ]
+    },
+    "0x140759E70": {
+        "file": "Battle02.bmd",
+        "occurrences": [
+            "0x1407596a8"
+        ]
+    },
+    "0x14072FA90": {
+        "file": "Revive.bmd",
+        "occurrences": [
+            "0x140730628"
+        ]
+    },
+    "0x14074EA40": {
+        "file": "OrgiaMode.bmd",
+        "occurrences": [
+            "0x14074cf08"
+        ]
+    },
+    "0x140787C40": {
+        "file": "SystemCamp.bmd",
+        "occurrences": [
+            "0x140786ee8"
+        ]
+    },
+    "0x1407AD230": {
+        "file": "CMMRankup.bmd",
+        "occurrences": [
+            "0x1407b61c8"
+        ]
+    },
+    "0x140808CA0": {
+        "file": "MenuSaveText.bmd",
+        "occurrences": [
+            "0x14080e058"
+        ]
+    }
+}
