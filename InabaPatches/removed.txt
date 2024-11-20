@@ -1,0 +1,4 @@
+[replacement b%02d_%02d.abin]
+search = "b%02d_%02d.abin"
+replacement = "z%02d_%02d.abin"
+offset=0

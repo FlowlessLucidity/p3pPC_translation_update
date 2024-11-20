@@ -2396,14 +2396,14 @@
         ]
     },
     "0x1405c6ef0": {
-        "text": "Запоминать положение курсора",
+        "text": "Запоминание расположения курсора",
         "original": "Remember the cursor position",
         "occurrences": [
             "0x14077d970"
         ]
     },
     "0x1405c6f10": {
-        "text": "Запоминать настройки тактики",
+        "text": "Запоминание тактики",
         "original": "Remember Tactics settings",
         "occurrences": [
             "0x14077d978"
@@ -2431,7 +2431,7 @@
         ]
     },
     "0x1405c6f78": {
-        "text": "Вкл/Выкл",
+        "text": "Вкл/Откл.",
         "original": "ON/OFF",
         "occurrences": [
             "0x14077d998",
@@ -2481,7 +2481,7 @@
         ]
     },
     "0x1405c79a0": {
-        "text": "Автотекст",
+        "text": "Автоматическое чтение",
         "original": "Auto Text",
         "occurrences": [
             "0x14077dd20",
@@ -2489,7 +2489,7 @@
         ]
     },
     "0x1405c79b0": {
-        "text": "Запоминать курсор",
+        "text": "Запоминать позицию в меню боя",
         "original": "Cursor Memory",
         "occurrences": [
             "0x14077dd28"
@@ -3525,7 +3525,7 @@
     },
     "0x1405fc938": {
         "text": "Солнце",
-		"original": "Sun",
+        "original": "Sun",
         "occurrences": [
             "0x14069d7f0",
             "0x1407d8a90"
@@ -23892,57 +23892,57 @@
             "0x1407d8dd8"
         ]
     },
-	"0x1405cae68": {
+    "0x1405cae68": {
         "text": "Звуковые эффекты",
-		"original": "SE",
+        "original": "SE",
         "occurrences": [
             "0x140780650"
         ]
     },
     "0x1405c9098": {
-        "text": "Громкость голоса",
+        "text": "Громкость диалогов",
         "original": "Voice",
         "occurrences": [
             "0x14077ee58"
         ]
     },
     "0x1405c90a0": {
-        "text": "Озвучка диалогов",
+        "text": "Озвучение диалогов",
         "original": "Voiced Line",
         "occurrences": [
             "0x14077ee60"
         ]
     },
     "0x1405c90b0": {
-        "text": "Язык диалогов",
+        "text": "Язык озвучения",
         "original": "Audio Language",
         "occurrences": [
             "0x14077ee68"
         ]
     },
     "0x1405c90c0": {
-        "text": "Звуковые устройства",
+        "text": "Устройство вывода звука",
         "original": "Sound Output Device",
         "occurrences": [
             "0x14077ee70"
         ]
     },
     "0x1405c90d8": {
-        "text": "Запоминать курсор",
+        "text": "Запоминание расположения курсора",
         "original": "Cursor Position Memory",
         "occurrences": [
             "0x14077ee88"
         ]
     },
     "0x1405c90f0": {
-        "text": "Запоминать порядок атаки",
+        "text": "Запоминание тактики",
         "original": "Battle Order Memory",
         "occurrences": [
             "0x14077ee90"
         ]
     },
     "0x1405c9108": {
-        "text": "Запоминать последнюю персону",
+        "text": "Запоминание Персоны",
         "original": "Equipped Persona Memory",
         "occurrences": [
             "0x14077ee98"
@@ -23970,7 +23970,7 @@
         ]
     },
     "0x1405c9408": {
-        "text": "Пресеты",
+        "text": "Качество графики",
         "original": "Presets",
         "occurrences": [
             "0x14077f130"
@@ -23991,7 +23991,7 @@
         ]
     },
     "0x1405c9198": {
-        "text": "Анизотропный фильтр",
+        "text": "Анизотропная фильтрация",
         "original": "Anisotropic Filter",
         "occurrences": [
             "0x14077eee0"
@@ -24019,7 +24019,7 @@
         ]
     },
     "0x1405c91e0": {
-        "text": "Монитор",
+        "text": "Дисплей",
         "original": "Monitor",
         "occurrences": [
             "0x14077ef08",
@@ -24051,7 +24051,7 @@
         ]
     },
     "0x1405c9208": {
-        "text": "Движение персонажа (вперед)",
+        "text": "Движение (вперед)",
         "original": "Character Movement(Forward)",
         "occurrences": [
             "0x14077ef40",
@@ -24059,7 +24059,7 @@
         ]
     },
     "0x1405c9228": {
-        "text": "Движение персонажа(назад)",
+        "text": "Движение (назад)",
         "original": "Character Movement(Back)",
         "occurrences": [
             "0x14077ef48",
@@ -24067,7 +24067,7 @@
         ]
     },
     "0x1405c9248": {
-        "text": "Движение персонажа(влево)",
+        "text": "Движение (влево)",
         "original": "Character Movement(Left)",
         "occurrences": [
             "0x14077ef50",
@@ -24075,7 +24075,7 @@
         ]
     },
     "0x1405c9268": {
-        "text": "Движение персонажа(вправо)",
+        "text": "Движение (вправо)",
         "original": "Character Movement(Right)",
         "occurrences": [
             "0x14077ef58",
@@ -24083,7 +24083,7 @@
         ]
     },
     "0x1405c9288": {
-        "text": "Подтвердить, взаимодействие",
+        "text": "Подтвердить, действие",
         "original": "Confirm, Action",
         "occurrences": [
             "0x14077ef60",
@@ -24091,7 +24091,7 @@
         ]
     },
     "0x1405c9298": {
-        "text": "Отменить",
+        "text": "Отмена",
         "original": "Cancel",
         "occurrences": [
             "0x14077ef68",
@@ -24106,7 +24106,7 @@
         ]
     },
     "0x1405c92b0": {
-        "text": "Скорость курсора",
+        "text": "Ускорить курсор",
         "original": "Cursor Speed",
         "occurrences": [
             "0x14077ef80",
@@ -24162,7 +24162,7 @@
         ]
     },
     "0x1405c9318": {
-        "text": "Центровать камеру",
+        "text": "Сброс камеры",
         "original": "Center Camera",
         "occurrences": [
             "0x14077efc8",
@@ -24170,7 +24170,7 @@
         ]
     },
     "0x1405c9328": {
-        "text": "Отобразить карту этажа",
+        "text": "Карта",
         "original": "Display Floor Map",
         "occurrences": [
             "0x14077efd0",
@@ -24178,7 +24178,7 @@
         ]
     },
     "0x1405c9350": {
-        "text": "Авто Вкл/Выкл",
+        "text": "Авто Вкл/Откл.",
         "original": "Toggle Rush On/Off",
         "occurrences": [
             "0x14077efe8",
@@ -24210,7 +24210,7 @@
         ]
     },
     "0x1405c93b8": {
-        "text": "История диалогов",
+        "text": "Журнал",
         "original": "Backlog",
         "occurrences": [
             "0x14077f018",
@@ -24218,7 +24218,7 @@
         ]
     },
     "0x1405c93c0": {
-        "text": "Вперёд на 2 в истории",
+        "text": "Вперёд на 2 в журнале",
         "original": "Move 2 forward in backlog",
         "occurrences": [
             "0x14077f020",
@@ -24226,7 +24226,7 @@
         ]
     },
     "0x1405c93e0": {
-        "text": "Назад на 2 в истории",
+        "text": "Назад на 2 в журнале",
         "original": "Move 2 back in backlog",
         "occurrences": [
             "0x14077f028",
@@ -24253,126 +24253,126 @@
         ]
     },
     "0x1405cb220": {
-        "text": "Изменить громкость фоновой музыки",
+        "text": "Настройте громкость фоновой музыки",
         "original": "Change BGM volume settings",
         "occurrences": [
             "0x140780948"
         ]
     },
     "0x1405cb240": {
-        "text": "Изменить громкость звуковых эффектов",
+        "text": "Настройте громкость звуковых эффектов",
         "original": "Change SE volume settings",
         "occurrences": [
             "0x140780950"
         ]
     },
     "0x1405cb260": {
-        "text": "Изменить громкость голосов",
+        "text": "Настройте громкость диалогов",
         "original": "Change Voice volume settings",
         "occurrences": [
             "0x140780958"
         ]
     },
     "0x1405cb280": {
-        "text": "Проигрывать озвучку в такт с текстом",
+        "text": "Вкл./откл. озвучение диалогов",
         "original": "Play Voiced Lines in time with the text",
         "occurrences": [
             "0x140780960"
         ]
     },
     "0x1405cb2a8": {
-        "text": "Сменить язык аудио",
+        "text": "Выберите язык озвучения персонажей",
         "original": "Change settings for audio language",
         "occurrences": [
             "0x140780968"
         ]
     },
     "0x1405cb2d0": {
-        "text": "Сменить устройство воспроизведения",
+        "text": "Выберите устройство вывода звука",
         "original": "Change sound output device",
         "occurrences": [
             "0x140780970"
         ]
     },
     "0x1405cb2f0": {
-        "text": "Automatically progress the text in time with the voice audio",
+        "text": "Вкл./откл. автоматическое чтение",
         "original": "Automatically progress the text in time with the voice audio",
         "occurrences": [
             "0x140780980"
         ]
     },
     "0x1405cb330": {
-        "text": "Запоминать позицию курсора ранее выбранной опции во время боя",
+        "text": "Вкл./откл. запоминание последней позиции курсора в бою",
         "original": "Remember cursor position of previously selected option during battle",
         "occurrences": [
             "0x140780988"
         ]
     },
     "0x1405cb378": {
-        "text": "Запоминать порядок боевых приказов, выбранных ранее",
+        "text": "Вкл./откл. запоминание выбранной ранее тактики в бою",
         "original": "Remember battle orders of previously selected during battle",
         "occurrences": [
             "0x140780990"
         ]
     },
     "0x1405cb3b8": {
-        "text": "Запоминать последнюю использованную персону",
+        "text": "Вкл./откл. запоминание выбранной ранее Персоны в бою",
         "original": "Remember the Persona that was equipped at the end of battle",
         "occurrences": [
             "0x140780998"
         ]
     },
     "0x1405cb3f8": {
-        "text": "Инвертировать вращение командного меню??",
+        "text": "Инвертировать вращение боевого меню",
         "original": "Reverse rotation of the battle command menu",
         "occurrences": [
             "0x1407809a0"
         ]
     },
     "0x1405cb428": {
-        "text": "Инвертировать вращение камеры",
+        "text": "Вкл./откл. инверсию управления камерой",
         "original": "Invert camera controls",
         "occurrences": [
             "0x1407809a8"
         ]
     },
     "0x1405cb440": {
-        "text": "Изменить скорость вращения камеры",
+        "text": "Настройте скорость вращения камеры",
         "original": "Change the camera rotation speed while moving",
         "occurrences": [
             "0x1407809b0"
         ]
     },
     "0x1405cb630": {
-        "text": "Изменить пресеты графики",
+        "text": "Настройте общий уровень качества графики",
         "original": "Change the preset configuration for the graphics",
         "occurrences": [
             "0x140780c30"
         ]
     },
     "0x1405cb498": {
-        "text": "Изменить масштаб рендеринга",
+        "text": "Настройте масштаб рендеринга трёхмерного изображения",
         "original": "Changes the quality of graphics in-game",
         "occurrences": [
             "0x1407809c8"
         ]
     },
     "0x1405cb4c0": {
-        "text": "Изменение качества теней",
+        "text": "Настройте качество теней",
         "original": "Changes the graphical quality of shadows",
         "occurrences": [
             "0x1407809d0"
         ]
     },
     "0x1405cb4f0": {
-        "text": "Включает и отключает тени",
+        "text": "Вкл./откл. отображение теней",
         "original": "Change settings for displaying shadows",
         "occurrences": [
             "0x1407809d8"
         ]
     },
     "0x1405cb518": {
-        "text": "Изменение настроек анизотропного фильтра",
+        "text": "Настройте анизотропный фильтр",
         "original": "Change settings for anisotropic filter",
         "occurrences": [
             "0x1407809e0"
@@ -24386,42 +24386,42 @@
         ]
     },
     "0x1405cb560": {
-        "text": "Изменить уровень контрастности",
+        "text": "Настройте уровень контрастности",
         "original": "Change the contrast level",
         "occurrences": [
             "0x1407809f0"
         ]
     },
     "0x1405cb580": {
-        "text": "Изменить разрешение",
+        "text": "Настройте разрешение экрана",
         "original": "Change the game's resolution",
         "occurrences": [
             "0x140780a00"
         ]
     },
     "0x1405cb5a0": {
-        "text": "Выбрать монитор (если несколько)",
+        "text": "Выберите дисплей, на котором должна отображаться игра",
         "original": "Change the display monitor",
         "occurrences": [
             "0x140780a08"
         ]
     },
     "0x1405cb5c0": {
-        "text": "Изменить режим отображения",
+        "text": "Изменить режим экрана",
         "original": "Change the screen size",
         "occurrences": [
             "0x140780a10"
         ]
     },
     "0x1405cb5d8": {
-        "text": "Включить вертикальную синхронизацию",
+        "text": "Вкл./откл. вертикальную синхронизацию",
         "original": "Change settings for tearing",
         "occurrences": [
             "0x140780a18"
         ]
     },
     "0x1405cb5f8": {
-        "text": "Ограничить значение FPS",
+        "text": "Установите максимальное количество кадров в секунду",
         "original": "Set the maximum FPS limit",
         "occurrences": [
             "0x140780a20",
@@ -24433,6 +24433,1203 @@
         "original": "Change button display",
         "occurrences": [
             "0x140780b38"
+        ]
+    },
+    "0x1405e8090": {
+        "text": "Вход в школу",
+        "original": "School Entranceway",
+        "occurrences": [
+            "0x1407cb6d8"
+        ]
+    },
+    "0x1405e80d0": {
+        "text": "1 эт. торговых рядов",
+        "original": "Iwatodai Strip Mall 1F",
+        "occurrences": [
+            "0x1407cb6f0"
+        ]
+    },
+    "0x1405e80f8": {
+        "text": "1 этаж. Холл",
+        "original": "1st Floor, Lounge",
+        "occurrences": [
+            "0x1407cb700"
+        ]
+    },
+    "0x1405e810c": {
+        "text": "Пляж",
+        "original": "Beach",
+        "occurrences": [
+            "0x1407cb708"
+        ]
+    },
+    "0x1405e8118": {
+        "text": "1 этаж \"Го-Дайго\"",
+        "original": "Godaigo, 1st Floor",
+        "occurrences": [
+            "0x1407cb710"
+        ]
+    },
+    "0x1405e8130": {
+        "text": "Монорельсовый мост",
+        "original": "Monorail Bridge",
+        "occurrences": [
+            "0x1407cb718"
+        ]
+    },
+    "0x1405e8140": {
+        "text": "1 этаж. Коридор",
+        "original": "Hallway, 1st Floor",
+        "occurrences": [
+            "0x1407cb720"
+        ]
+    },
+    "0x1405e8158": {
+        "text": "13 метров под землёй",
+        "original": "13m Underground",
+        "occurrences": [
+            "0x1407cb728"
+        ]
+    },
+    "0x1405e8168": {
+        "text": "Лунный мост",
+        "original": "Moonlight Bridge",
+        "occurrences": [
+            "0x1407cb730",
+            "0x1407cdcb0",
+            "0x1407cef70"
+        ]
+    },
+    "0x1405e8180": {
+        "text": "Класс 2-F",
+        "original": "Classroom 2-F",
+        "occurrences": [
+            "0x1407cb738"
+        ]
+    },
+    "0x1405e8190": {
+        "text": "Класс 2-E",
+        "original": "Classroom 2-E",
+        "occurrences": [
+            "0x1407cb740"
+        ]
+    },
+    "0x1405e81a0": {
+        "text": "Ученический совет",
+        "original": "Student Council Room",
+        "occurrences": [
+            "0x1407cb748"
+        ]
+    },
+    "0x1405e81b8": {
+        "text": "Учительская",
+        "original": "Faculty Office",
+        "occurrences": [
+            "0x1407cb750"
+        ]
+    },
+    "0x1405e81c8": {
+        "text": "Медкабинет",
+        "original": "Nurse's Office",
+        "occurrences": [
+            "0x1407cb758"
+        ]
+    },
+    "0x1405e81d8": {
+        "text": "Библиотека",
+        "original": "Library",
+        "occurrences": [
+            "0x1407cb760"
+        ]
+    },
+    "0x1405e81e0": {
+        "text": "Кабинет труда",
+        "original": "Home Economics Room",
+        "occurrences": [
+            "0x1407cb768"
+        ]
+    },
+    "0x1405e81f8": {
+        "text": "Кабинет музыки",
+        "original": "Music Room",
+        "occurrences": [
+            "0x1407cb770"
+        ]
+    },
+    "0x1405e8208": {
+        "text": "Каб. естествознания",
+        "original": "Science Room",
+        "occurrences": [
+            "0x1407cb778"
+        ]
+    },
+    "0x1405e8218": {
+        "text": "Спортзал",
+        "original": "Gymnasium",
+        "occurrences": [
+            "0x1407cb780"
+        ]
+    },
+    "0x1405e8228": {
+        "text": "Бассейн",
+        "original": "Indoor Swimming Pool",
+        "occurrences": [
+            "0x1407cb788"
+        ]
+    },
+    "0x1405e8240": {
+        "text": "Стадион",
+        "original": "Practice Field",
+        "occurrences": [
+            "0x1407cb790"
+        ]
+    },
+    "0x1405e8250": {
+        "text": "Мужской туалет",
+        "original": "Men's Room",
+        "occurrences": [
+            "0x1407cb798",
+            "0x1407cba48"
+        ]
+    },
+    "0x1405e8260": {
+        "text": "Женский туалет",
+        "original": "Women's Room",
+        "occurrences": [
+            "0x1407cb7a0",
+            "0x1407cba98"
+        ]
+    },
+    "0x1405e8270": {
+        "text": "Радиорубка",
+        "original": "PA Room",
+        "occurrences": [
+            "0x1407cb7a8"
+        ]
+    },
+    "0x1405e8278": {
+        "text": "Комната уборщика",
+        "original": "Janitor's Room",
+        "occurrences": [
+            "0x1407cb7b0"
+        ]
+    },
+    "0x1405e8288": {
+        "text": "Кабинет ИЗО",
+        "original": "Art Room",
+        "occurrences": [
+            "0x1407cb7b8"
+        ]
+    },
+    "0x1405e8298": {
+        "text": "Лаборатория",
+        "original": "Laboratory",
+        "occurrences": [
+            "0x1407cb7c0"
+        ]
+    },
+    "0x1405e82a8": {
+        "text": "Бархатная комната",
+        "original": "Velvet Room",
+        "occurrences": [
+            "0x1407cb7c8",
+            "0x1407ce6a8"
+        ]
+    },
+    "0x1405e82b8": {
+        "text": "Клуб \"Эскапада\"",
+        "original": "Club Escapade",
+        "occurrences": [
+            "0x1407cb7d0",
+            "0x1407cdd50",
+            "0x1407ce6b0",
+            "0x1407cf010"
+        ]
+    },
+    "0x1405e82c8": {
+        "text": "Аптека \"Аохигэ\"",
+        "original": "Aohige Pharmacy",
+        "occurrences": [
+            "0x1407cb7d8"
+        ]
+    },
+    "0x1405e82d8": {
+        "text": "Антикварная лавка",
+        "original": "Shinshoudo Antiques",
+        "occurrences": [
+            "0x1407cb7e0"
+        ]
+    },
+    "0x1405e82f0": {
+        "text": "Power Records",
+        "original": "Power Records",
+        "occurrences": [
+            "0x1407cb7e8",
+            "0x1407cdd68",
+            "0x1407ce6c8",
+            "0x1407cf028",
+            "0x1407cf988"
+        ]
+    },
+    "0x1405e8300": {
+        "text": "Game Panic",
+        "original": "Game Parade",
+        "occurrences": [
+            "0x1407cb7f0",
+            "0x1407cdd70",
+            "0x1407ce6d0",
+            "0x1407cf030",
+            "0x1407cf990"
+        ]
+    },
+    "0x1405e8310": {
+        "text": "Караоке \"Мандрагора\"",
+        "original": "Mandragora",
+        "occurrences": [
+            "0x1407cb7f8",
+            "0x1407cdd78",
+            "0x1407ce6d8",
+            "0x1407cf038"
+        ]
+    },
+    "0x1405e8320": {
+        "text": "Отделение полиции",
+        "original": "Police Station",
+        "occurrences": [
+            "0x1407cb800"
+        ]
+    },
+    "0x1405e8330": {
+        "text": "Be Blue V",
+        "original": "Be Blue V",
+        "occurrences": [
+            "0x1407cb808",
+            "0x1407cc168",
+            "0x1407cdd88",
+            "0x1407ce6e8",
+            "0x1407cf048",
+            "0x1407cf9a8"
+        ]
+    },
+    "0x1405e8340": {
+        "text": "Кафе \"Шагал\"",
+        "original": "Chagall Cafe",
+        "occurrences": [
+            "0x1407cb810"
+        ]
+    },
+    "0x1405e8350": {
+        "text": "Кинотеатр",
+        "original": "Movie Theater",
+        "occurrences": [
+            "0x1407cb818"
+        ]
+    },
+    "0x1405e8360": {
+        "text": "\"Раффлезия\"",
+        "original": "Rafflesia",
+        "occurrences": [
+            "0x1407cb820",
+            "0x1407cdda0",
+            "0x1407ce700",
+            "0x1407cf060",
+            "0x1407cf9c0"
+        ]
+    },
+    "0x1405e8370": {
+        "text": "\"Октопия\"",
+        "original": "Octopia",
+        "occurrences": [
+            "0x1407cb828",
+            "0x1407cdda8",
+            "0x1407ce708",
+            "0x1407cf068",
+            "0x1407cf9c8"
+        ]
+    },
+    "0x1405e8378": {
+        "text": "\"Вайлд-Дак Бургер\"",
+        "original": "Wild-duck Burger",
+        "occurrences": [
+            "0x1407cb830"
+        ]
+    },
+    "0x1405e8390": {
+        "text": "\"Книгочеи\"",
+        "original": "Bookworms",
+        "occurrences": [
+            "0x1407cb838",
+            "0x1407ce718",
+            "0x1407cf078",
+            "0x1407cf9d8"
+        ]
+    },
+    "0x1405e83a0": {
+        "text": "Ресторан \"Вакацу\"",
+        "original": "Wakatsu Restaurant",
+        "occurrences": [
+            "0x1407cb840",
+            "0x1407cf080"
+        ]
+    },
+    "0x1405e83b8": {
+        "text": "Раменная \"Хагакуре\"",
+        "original": "Hagakure",
+        "occurrences": [
+            "0x1407cb848",
+            "0x1407cddc8",
+            "0x1407ce728",
+            "0x1407cf088",
+            "0x1407cf9e8"
+        ]
+    },
+    "0x1405e83c8": {
+        "text": "Магазин сладостей",
+        "original": "Sweet Shop",
+        "occurrences": [
+            "0x1407cb850"
+        ]
+    },
+    "0x1405e83d8": {
+        "text": "\"Бычий аппетит\"",
+        "original": "Beef Bowl Shop",
+        "occurrences": [
+            "0x1407cb858",
+            "0x1407cf098"
+        ]
+    },
+    "0x1405e83e8": {
+        "text": "Манга-шоп 'Book On'",
+        "original": "Book On",
+        "occurrences": [
+            "0x1407cb860",
+            "0x1407cdde0",
+            "0x1407ce740",
+            "0x1407cf0a0",
+            "0x1407cfa00"
+        ]
+    },
+    "0x1405e83f0": {
+        "text": "Торговый автомат",
+        "original": "Vending Machine",
+        "occurrences": [
+            "0x1407cb868"
+        ]
+    },
+    "0x1405e8400": {
+        "text": "1 эт. Вестибюль",
+        "original": "1st Floor, Main Lobby",
+        "occurrences": [
+            "0x1407cb870"
+        ]
+    },
+    "0x1405e8418": {
+        "text": "1 эт. У учительской",
+        "original": "1st Floor, Near Faculty",
+        "occurrences": [
+            "0x1407cb878"
+        ]
+    },
+    "0x1405e8430": {
+        "text": "1 эт. Школьные клубы",
+        "original": "1st Floor, Near Clubs",
+        "occurrences": [
+            "0x1407cb880"
+        ]
+    },
+    "0x1405e8448": {
+        "text": "Проход в спорткорпус",
+        "original": "1st Floor, Corridor",
+        "occurrences": [
+            "0x1407cb888"
+        ]
+    },
+    "0x1405e8460": {
+        "text": "Спортивный корпус",
+        "original": "1st Floor, Hallway",
+        "occurrences": [
+            "0x1407cb890"
+        ]
+    },
+    "0x1405e8478": {
+        "text": "2 эт. Учебные классы",
+        "original": "2F, Near Classes",
+        "occurrences": [
+            "0x1407cb898"
+        ]
+    },
+    "0x1405e8490": {
+        "text": "Крыша",
+        "original": "Rooftop",
+        "occurrences": [
+            "0x1407cb8a0"
+        ]
+    },
+    "0x1405e8498": {
+        "text": "Ваша комната",
+        "original": "Your Room",
+        "occurrences": [
+            "0x1407cb8a8"
+        ]
+    },
+    "0x1405e84a8": {
+        "text": "2 этаж. Коридор",
+        "original": "2nd Floor, Hallway",
+        "occurrences": [
+            "0x1407cb8b0",
+            "0x1407cb8f0"
+        ]
+    },
+    "0x1405e84c0": {
+        "text": "3 этаж. Коридор",
+        "original": "3rd Floor, Hallway",
+        "occurrences": [
+            "0x1407cb8b8",
+            "0x1407cb8f8"
+        ]
+    },
+    "0x1405e84d8": {
+        "text": "4 этаж. Коридор",
+        "original": "4th Floor, Hallway",
+        "occurrences": [
+            "0x1407cb8c0",
+            "0x1407cb920"
+        ]
+    },
+    "0x1405e84f0": {
+        "text": "Командный центр",
+        "original": "Command Room",
+        "occurrences": [
+            "0x1407cb8c8"
+        ]
+    },
+    "0x1405e8500": {
+        "text": "5 этаж. Коридор",
+        "original": "5th Floor, Hallway",
+        "occurrences": [
+            "0x1407cb8d0"
+        ]
+    },
+    "0x1405e8518": {
+        "text": "Вход в общежите",
+        "original": "Dorm, Entrance",
+        "occurrences": [
+            "0x1407cb8d8"
+        ]
+    },
+    "0x1405e8528": {
+        "text": "Свободная комната",
+        "original": "Vacant Room",
+        "occurrences": [
+            "0x1407cb8e0"
+        ]
+    },
+    "0x1405e8538": {
+        "text": "Ст. \"Иватодай\"",
+        "original": "Iwatodai Station",
+        "occurrences": [
+            "0x1407cb8e8",
+            "0x1407ce7c8"
+        ]
+    },
+    "0x1405e8550": {
+        "text": "Тебель. 2 этаж",
+        "original": "Thebel 2F",
+        "occurrences": [
+            "0x1407cb900",
+            "0x1407d0b40"
+        ]
+    },
+    "0x1405e8560": {
+        "text": "Арка. ??? этаж",
+        "original": "Arqa ???F",
+        "occurrences": [
+            "0x1407cb908",
+            "0x1407cb910",
+            "0x1407cb918"
+        ]
+    },
+    "0x1405e8570": {
+        "text": "Номер 101",
+        "original": "Room 101",
+        "occurrences": [
+            "0x1407cb928"
+        ]
+    },
+    "0x1405e8580": {
+        "text": "Номер 201",
+        "original": "Room 201",
+        "occurrences": [
+            "0x1407cb930"
+        ]
+    },
+    "0x1405e8590": {
+        "text": "Номер 202",
+        "original": "Room 202",
+        "occurrences": [
+            "0x1407cb938"
+        ]
+    },
+    "0x1405e85a0": {
+        "text": "Номер 203",
+        "original": "Room 203",
+        "occurrences": [
+            "0x1407cb940"
+        ]
+    },
+    "0x1405e85b0": {
+        "text": "Номер 204",
+        "original": "Room 204",
+        "occurrences": [
+            "0x1407cb948"
+        ]
+    },
+    "0x1405e85c0": {
+        "text": "Номер 205",
+        "original": "Room 205",
+        "occurrences": [
+            "0x1407cb950"
+        ]
+    },
+    "0x1405e85d0": {
+        "text": "Номер 301",
+        "original": "Room 301",
+        "occurrences": [
+            "0x1407cb958"
+        ]
+    },
+    "0x1405e85e0": {
+        "text": "Номер 302",
+        "original": "Room 302",
+        "occurrences": [
+            "0x1407cb960"
+        ]
+    },
+    "0x1405e85f0": {
+        "text": "Номер 303",
+        "original": "Room 303",
+        "occurrences": [
+            "0x1407cb968"
+        ]
+    },
+    "0x1405e8600": {
+        "text": "Номер 304",
+        "original": "Room 304",
+        "occurrences": [
+            "0x1407cb970"
+        ]
+    },
+    "0x1405e8610": {
+        "text": "Номер 305",
+        "original": "Room 305",
+        "occurrences": [
+            "0x1407cb978"
+        ]
+    },
+    "0x1405e8620": {
+        "text": "Номер 401",
+        "original": "Room 401",
+        "occurrences": [
+            "0x1407cb980"
+        ]
+    },
+    "0x1405e8630": {
+        "text": "Номер 402",
+        "original": "Room 402",
+        "occurrences": [
+            "0x1407cb988"
+        ]
+    },
+    "0x1405e8640": {
+        "text": "Номер 403",
+        "original": "Room 403",
+        "occurrences": [
+            "0x1407cb990"
+        ]
+    },
+    "0x1405e8650": {
+        "text": "Номер 404",
+        "original": "Room 404",
+        "occurrences": [
+            "0x1407cb998"
+        ]
+    },
+    "0x1405e8660": {
+        "text": "Покои Иерофанта",
+        "original": "Hierophant's Chamber",
+        "occurrences": [
+            "0x1407cb9a0"
+        ]
+    },
+    "0x1405e8678": {
+        "text": "10 и 11 вагоны",
+        "original": "10th/11th Carriage",
+        "occurrences": [
+            "0x1407cb9a8"
+        ]
+    },
+    "0x1405e8690": {
+        "text": "8 и 9 вагоны",
+        "original": "8th/9th Carriage",
+        "occurrences": [
+            "0x1407cb9b0"
+        ]
+    },
+    "0x1405e86a8": {
+        "text": "6 и 7 вагоны",
+        "original": "6th/7th Carriage",
+        "occurrences": [
+            "0x1407cb9b8"
+        ]
+    },
+    "0x1405e86c0": {
+        "text": "4 и 5 вагоны",
+        "original": "4th/5th Carriage",
+        "occurrences": [
+            "0x1407cb9c0"
+        ]
+    },
+    "0x1405e86d8": {
+        "text": "2 и 3 вагоны",
+        "original": "2nd/3rd Carriage",
+        "occurrences": [
+            "0x1407cb9c8"
+        ]
+    },
+    "0x1405e86f0": {
+        "text": "1 вагон",
+        "original": "1st Carriage",
+        "occurrences": [
+            "0x1407cb9d0"
+        ]
+    },
+    "0x1405e8700": {
+        "text": "17 метров под землёй",
+        "original": "17m Underground",
+        "occurrences": [
+            "0x1407cb9d8"
+        ]
+    },
+    "0x1405e8710": {
+        "text": "21 метр под землёй",
+        "original": "21m Underground",
+        "occurrences": [
+            "0x1407cb9e0"
+        ]
+    },
+    "0x1405e8720": {
+        "text": "27 метров под землёй",
+        "original": "27m Underground",
+        "occurrences": [
+            "0x1407cb9e8"
+        ]
+    },
+    "0x1405e8730": {
+        "text": "30 метров под землёй",
+        "original": "30m Underground",
+        "occurrences": [
+            "0x1407cb9f0"
+        ]
+    },
+    "0x1405e8740": {
+        "text": "Задворки станции",
+        "original": "Station Outskirts",
+        "occurrences": [
+            "0x1407cb9f8"
+        ]
+    },
+    "0x1405e8758": {
+        "text": "33 метра под землёй",
+        "original": "33m Underground",
+        "occurrences": [
+            "0x1407cba00",
+            "0x1407cba08"
+        ]
+    },
+    "0x1405e8768": {
+        "text": "3 метра под землёй",
+        "original": "3m Underground",
+        "occurrences": [
+            "0x1407cba10"
+        ]
+    },
+    "0x1405e8778": {
+        "text": "Закоулок",
+        "original": "Back Alley",
+        "occurrences": [
+            "0x1407cba18"
+        ]
+    },
+    "0x1405e8788": {
+        "text": "Карта города",
+        "original": "Town Map",
+        "occurrences": [
+            "0x1407cba20"
+        ]
+    },
+    "0x1405e8794": {
+        "text": "Тропический лес",
+        "original": "Forest",
+        "occurrences": [
+            "0x1407cba28"
+        ]
+    },
+    "0x1405e87a0": {
+        "text": "2 этаж \"Го-Дайго\"",
+        "original": "Godaigo, 2nd Floor",
+        "occurrences": [
+            "0x1407cba30"
+        ]
+    },
+    "0x1405e87b8": {
+        "text": "3 этаж \"Го-Дайго\"",
+        "original": "Godaigo, 3rd Floor",
+        "occurrences": [
+            "0x1407cba38"
+        ]
+    },
+    "0x1405e87d0": {
+        "text": "Горячий источник",
+        "original": "Big Hot Spring",
+        "occurrences": [
+            "0x1407cba40"
+        ]
+    },
+    "0x1405e87e0": {
+        "text": "Колизей Чистилища",
+        "original": "Colosseo Purgatorio",
+        "occurrences": [
+            "0x1407cba50",
+            "0x1407cdfd0",
+            "0x1407ce930",
+            "0x1407cf290"
+        ]
+    },
+    "0x1405e87f8": {
+        "text": "Злопазухи ",
+        "original": "Malebolge",
+        "occurrences": [
+            "0x1407cba58",
+            "0x1407cdfd8",
+            "0x1407ce938",
+            "0x1407cf298",
+            "0x1407cfbf8"
+        ]
+    },
+    "0x1405e8808": {
+        "text": "Коцит",
+        "original": "Cocytus",
+        "occurrences": [
+            "0x1407cba60"
+        ]
+    },
+    "0x1405e8810": {
+        "text": "Каина",
+        "original": "Caina",
+        "occurrences": [
+            "0x1407cba68",
+            "0x1407cf2a8",
+            "0x1407cfc08"
+        ]
+    },
+    "0x1405e8818": {
+        "text": "Антенора",
+        "original": "Antenora",
+        "occurrences": [
+            "0x1407cba70",
+            "0x1407ce950",
+            "0x1407cf2b0",
+            "0x1407cfc10"
+        ]
+    },
+    "0x1405e8828": {
+        "text": "Птоломея",
+        "original": "Ptolomea",
+        "occurrences": [
+            "0x1407cba78",
+            "0x1407ce958"
+        ]
+    },
+    "0x1405e8838": {
+        "text": "Джудекка",
+        "original": "Judecca",
+        "occurrences": [
+            "0x1407cba80",
+            "0x1407ce960"
+        ]
+    },
+    "0x1405e8840": {
+        "text": "Эмпирей",
+        "original": "Empyrean",
+        "occurrences": [
+            "0x1407cba88",
+            "0x1407ce968"
+        ]
+    },
+    "0x1405e8850": {
+        "text": "Последняя дверь",
+        "original": "Final Door",
+        "occurrences": [
+            "0x1407cba90"
+        ]
+    },
+    "0x1405e8860": {
+        "text": "Адама. 258 этаж",
+        "original": "Adamah 258F",
+        "occurrences": [
+            "0x1407cbaa0",
+            "0x1407d1340"
+        ]
+    },
+    "0x1405e8870": {
+        "text": "Адама. 262 этаж",
+        "original": "Adamah 262F",
+        "occurrences": [
+            "0x1407cbaa8",
+            "0x1407d1360"
+        ]
+    },
+    "0x1405e8880": {
+        "text": "Адама. 263 этаж",
+        "original": "Adamah 263F",
+        "occurrences": [
+            "0x1407cbab0",
+            "0x1407d1368"
+        ]
+    },
+    "0x1405e8890": {
+        "text": "Вход",
+        "original": "Entrance",
+        "occurrences": [
+            "0x1407cbab8",
+            "0x140801c18"
+        ]
+    },
+    "0x1405e88a0": {
+        "text": "Покои грёз и ответов",
+        "original": "Vision Quest Chamber",
+        "occurrences": [
+            "0x1407cbac0"
+        ]
+    },
+    "0x1405e88b8": {
+        "text": "2 эт. торговых рядов",
+        "original": "Iwatodai Strip Mall 2F",
+        "occurrences": [
+            "0x1407cbac8"
+        ]
+    },
+    "0x1405C8048": {
+        "text": "Установка \"Откл.\" может увеличить производительность игры",
+        "original": "Changing the setting to OFF may improve performance",
+        "occurrences": [
+            "0x14077e128"
+        ]
+    },
+    "0x1405C7FC8": {
+        "text": "Японский",
+        "original": "Japanese",
+        "occurrences": [
+            "0x14077e0d0"
+        ]
+    },
+    "0x1405C7FD8": {
+        "text": "Английский",
+        "original": "English",
+        "occurrences": [
+            "0x14077e0d8"
+        ]
+    },
+    "0x1405c8d4c": {
+        "text": "Громкость музыки",
+        "original": "BGM",
+        "occurrences": [
+            "0x14077eb48",
+            "0x14077ee48",
+            "0x14077f148"
+        ]
+    },
+    "0x1405c8d50": {
+        "text": "Громкость эффектов",
+        "original": "SE",
+        "occurrences": [
+            "0x1406a19c0",
+            "0x14077eb50",
+            "0x14077ee50"
+        ]
+    },
+    "0x1405c80cc": {
+        "text": "Тип 1",
+        "original": "Type 1",
+        "occurrences": [
+            "0x14077e170"
+        ]
+    },
+    "0x1405c80d4": {
+        "text": "Тип 2",
+        "original": "Type 2",
+        "occurrences": [
+            "0x14077e178"
+        ]
+    },
+    "0x1405c80dc": {
+        "text": "Тип 3",
+        "original": "Type 3",
+        "occurrences": [
+            "0x14077e180"
+        ]
+    },
+    "0x1405c80e4": {
+        "text": "Тип 4",
+        "original": "Type 4",
+        "occurrences": [
+            "0x14077e188"
+        ]
+    },
+    "0x1405c80ec": {
+        "text": "Тип 5",
+        "original": "Type 5",
+        "occurrences": [
+            "0x14077e190"
+        ]
+    },
+    "0x1405c80f4": {
+        "text": "Тип 6",
+        "original": "Type 6",
+        "occurrences": [
+            "0x14077e198"
+        ]
+    },
+    "0x1405c7e1c": {
+        "text": "Откл.",
+        "original": "OFF",
+        "occurrences": [
+            "0x14077df38",
+            "0x14077df68",
+            "0x14077e098",
+            "0x14077e0c8"
+        ]
+    },
+    "0x1405c7e18": {
+        "text": "Вкл.",
+        "original": "ON",
+        "occurrences": [
+            "0x14077df30",
+            "0x14077df60",
+            "0x14077e090",
+            "0x14077e0c0"
+        ]
+    },
+	"0x1405c8080": {
+        "text": "Сохранить эти изменения?",
+        "original": "Save changes?",
+        "occurrences": [
+            "0x14077e140"
+        ]
+    },
+    "0x1405c8090": {
+        "text": "Изменения будут отменены через",
+        "original": "Will return to default settings in",
+        "occurrences": [
+            "0x14077e148"
+        ]
+    },
+    "0x1405c80b8": {
+        "text": "сек.",
+        "original": "seconds.",
+        "occurrences": [
+            "0x14077e150"
+        ]
+    },
+    "0x1405c7e04": {
+        "text": "Низк.",
+        "original": "Low",
+        "occurrences": [
+            "0x14077df18",
+            "0x14077e078"
+        ]
+    },
+    "0x1405c7e08": {
+        "text": "Средн.",
+        "original": "Middle",
+        "occurrences": [
+            "0x14077df20",
+            "0x14077e080"
+        ]
+    },
+    "0x1405c7e10": {
+        "text": "Высок.",
+        "original": "High",
+        "occurrences": [
+            "0x14077df28",
+            "0x14077e088"
+        ]
+    },
+    "0x1405c7e20": {
+        "text": "Окно",
+        "original": "Window",
+        "occurrences": [
+            "0x14077df40",
+            "0x14077e0a0"
+        ]
+    },
+    "0x1405c7e28": {
+        "text": "Полный экран",
+        "original": "Fullscreen",
+        "occurrences": [
+            "0x14077df48",
+            "0x14077e0a8"
+        ]
+    },
+    "0x1405c7e38": {
+        "text": "Полный экран без рамки",
+        "original": "Borderless",
+        "occurrences": [
+            "0x14077df50",
+            "0x14077e0b0"
+        ]
+    },
+    "0x1405c8018": {
+        "text": "Понижение значения может увеличить производительность игры",
+        "original": "Lowering the value may improve performance",
+        "occurrences": [
+            "0x14077e110"
+        ]
+    },
+    "0x1405fbc20": {
+        "text": "Уровень игрока: ",
+        "original": "PLV",
+        "occurrences": [
+            "0x1407d8028",
+            "0x1407d84a8",
+            "0x1407d8da8",
+            "0x1407d9fa8",
+            "0x1407da428"
+        ]
+    },
+    "0x1405fbca0": {
+        "text": "Нет данных",
+        "original": "No Data",
+        "occurrences": [
+            "0x1407d8078",
+            "0x1407d84f8",
+            "0x1407d8df8",
+            "0x1407d9ff8",
+            "0x1407da478"
+        ]
+    },
+    "0x1405fbca8": {
+        "text": "Новая игра",
+        "original": "New Game",
+        "occurrences": [
+            "0x1407d8080",
+            "0x1407d8500",
+            "0x1407d8e00",
+            "0x1407da000",
+            "0x1407da480"
+        ]
+    },
+    "0x1405fcd40": {
+        "text": "Сложность: ",
+        "original": "Difficulty : ",
+        "occurrences": [
+            "0x1407d8db8"
+        ]
+    },
+    "0x1405fcd50": {
+        "text": "Сложность",
+        "original": "Difficulty",
+        "occurrences": [
+            "0x1407d8dd0"
+        ]
+    },
+    "0x1405fcd60": {
+        "text": "Завершить игру",
+        "original": "End Game",
+        "occurrences": [
+            "0x1407d8dd8"
+        ]
+    },
+    "0x1405fcd6c": {
+        "text": "Кастом",
+        "original": "Custom",
+        "occurrences": [
+            "0x1407d8de0"
+        ]
+    },
+    "0x1405fcb4c": {
+        "text": "Вс",
+        "original": "Su",
+        "occurrences": [
+            "0x1407d8bc0",
+            "0x1407d9130"
+        ]
+    },
+    "0x1405fcb50": {
+        "text": "Пн",
+        "original": "M",
+        "occurrences": [
+            "0x1407d8bc8"
+        ]
+    },
+    "0x1405fcb54": {
+        "text": "Вт",
+        "original": "Tu",
+        "occurrences": [
+            "0x1407d8bd0"
+        ]
+    },
+    "0x1405fcb58": {
+        "text": "Ср",
+        "original": "W",
+        "occurrences": [
+            "0x1407d8bd8"
+        ]
+    },
+    "0x1405fcb5c": {
+        "text": "Чт",
+        "original": "Th",
+        "occurrences": [
+            "0x1407d8be0"
+        ]
+    },
+    "0x1405fcb60": {
+        "text": "Пт",
+        "original": "F",
+        "occurrences": [
+            "0x1407d8be8"
+        ]
+    },
+    "0x1405fcb64": {
+        "text": "Сб",
+        "original": "Sa",
+        "occurrences": [
+            "0x1407d8bf0",
+            "0x1407d9970"
+        ]
+    },
+    "0x1405c80c4": {
+        "text": "Да",
+        "original": "Yes",
+        "occurrences": [
+            "0x14077e158",
+            "0x1407d89c0",
+            "0x1407d8cd0"
+        ]
+    },
+    "0x1405c80c8": {
+        "text": "Нет",
+        "original": "No",
+        "occurrences": [
+            "0x14077e160",
+            "0x14077e9a0",
+            "0x14077eb00",
+            "0x1407d89c8",
+            "0x1407d8cd8",
+            "0x1407d8e48",
+            "0x1407d9158",
+            "0x1407d9748",
+            "0x1407d9a58"
         ]
     }
 }

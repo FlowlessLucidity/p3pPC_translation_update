@@ -28,6 +28,12 @@ replacement = "Vvedite familiu."
 padNull=true
 offset=0
 
+[replacement PLAY TIME.]
+search = "PLAY TIME : %dhr %dm"
+replacement = "V igre: %dh %dm"
+padNull=true
+offset=0
+
 [replacement S.LINK character bottom description 1]
 pattern = 00 00 6B 43 00 00 81 43
 replacement = bytes(00 00 18 43)
@@ -53,7 +59,3 @@ search = "init_free.bin"
 replacement = "init_freeRU.bin"
 offset=0
 
-[replacement init_free1.bin]
-search = "b%02d_%02d.abin"
-replacement = "z%02d_%02d.abin"
-offset=0
