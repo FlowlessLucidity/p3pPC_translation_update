@@ -1,0 +1,24 @@
+var slink1 = 152.0f
+var slink2 = 160.0f
+var slink3 = 192.0f
+var slink4 = 209.0f
+
+[patch S.LINK character bottom description 1] 
+pattern = F3 0F 58 1D F8 A0 4A 00
+order = only
+addss xmm3, [dword {slink1}]
+
+[patch S.LINK character bottom description 2] 
+pattern = F3 0F 58 3D 64 83 4A 00
+order = only
+addss xmm7, [dword {slink2}]
+
+[patch S.LINK character bottom description 3] 
+pattern = F3 0F 58 0D A6 67 4A 00
+order = only
+addss xmm1, [dword {slink3}]
+
+[patch S.LINK character bottom description 4] 
+pattern = F3 0F 58 35 4A 62 4A 00
+order = only
+addss xmm6, [dword {slink4}]

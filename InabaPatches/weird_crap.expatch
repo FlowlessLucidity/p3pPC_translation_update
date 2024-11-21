@@ -34,25 +34,12 @@ replacement = "V igre: %dh %dm"
 padNull=true
 offset=0
 
-[replacement S.LINK character bottom description 1]
-pattern = 00 00 6B 43 00 00 81 43
-replacement = bytes(00 00 18 43)
+[replacement Default Device]
+search = "Default Device"
+replacement = "Po ymolhaniu"
+padNull=true
 offset=0
 
-[replacement S.LINK character bottom description 2]
-pattern = 00 00 76 43 00 00 83 43
-replacement = bytes(00 00 20 43)
-offset=0
-
-[replacement S.LINK character bottom description 3]
-pattern = 00 00 52 43 00 80 B1 43
-replacement = bytes(00 00 40 43)
-offset=0
-
-[replacement S.LINK character bottom description 4]
-pattern = 00 00 62 43 00 00 69 43
-replacement = bytes(00 00 51 43)
-offset=0
 
 [replacement init_free1.bin]
 search = "init_free.bin"
